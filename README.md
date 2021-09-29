@@ -1,4 +1,4 @@
-# Star Filmes
+# Star Filmes 🎥
 
 # Sobre o projeto
 
