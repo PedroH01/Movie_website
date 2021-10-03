@@ -16,7 +16,7 @@ Está aplicação contém um sidebar básico e uma opção de dark e light mode.
 
 # Autor
 
-(Créditos ao canal "Lama Dev" no YouTube de onde foi tirada a inspiração)
+(Todos os direitos ao canal "Lama Dev" no YouTube de onde foi retirado o tutorial)
 
 Pedro Henrique Silva Bonfim
 
